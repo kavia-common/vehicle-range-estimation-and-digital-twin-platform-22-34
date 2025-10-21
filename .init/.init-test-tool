@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/vehicle-range-estimation-and-digital-twin-platform-22-34/vehicle_range_backend"
+}
